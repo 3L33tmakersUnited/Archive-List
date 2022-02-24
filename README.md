@@ -1,6 +1,7 @@
 # Archive-List
 Find HTML5 games, Flash games, and more! 
 This is a free to use archive. You can add to your own sites or do anything you would like. 
+I also have some instructions that are inside of the Wiki section.
 
 ### People I would like to thank for providing the files
 - Bin Bash Banana [their site link here](https://github.com/BinBashBanana)
